@@ -12,3 +12,4 @@ C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Release\net10.0\refint
 C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Release\net10.0\Finals.pdb
 C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Release\net10.0\Finals.genruntimeconfig.cache
 C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Release\net10.0\ref\Finals.dll
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Release\net10.0\Finals.sourcelink.json
