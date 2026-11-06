@@ -1,0 +1,14 @@
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\bin\Debug\net10.0\Finals.exe
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\bin\Debug\net10.0\Finals.deps.json
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\bin\Debug\net10.0\Finals.runtimeconfig.json
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\bin\Debug\net10.0\Finals.dll
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\bin\Debug\net10.0\Finals.pdb
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\Finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\Finals.AssemblyInfoInputs.cache
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\Finals.AssemblyInfo.cs
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\Finals.csproj.CoreCompileInputs.cache
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\Finals.dll
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\refint\Finals.dll
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\Finals.pdb
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\Finals.genruntimeconfig.cache
+C:\Users\dwyan\OneDrive\Desktop\Coding Shet\c#\Finals\obj\Debug\net10.0\ref\Finals.dll
